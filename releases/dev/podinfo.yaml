@@ -17,6 +17,6 @@ spec:
     image:
       repository: arsenileskinen/podinfo
       tag: dev-09ehhg32
-    replicaCount: 1
+    replicaCount: 5
     hpa:
       enabled: false
